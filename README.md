@@ -1,6 +1,6 @@
 # The magic of dimensionality reduction
 
-Repository to go along with the talk *"The magic of dimensionality reduction"* given at [ODSC London 2017]. I'll update this repository in the next few days with code examples for the algorithms discussed in the talk, so hit the follow button above if you're interested :relaxed:. I've also made the slides available in this repo.
+Repository to go along with the talk *"The magic of dimensionality reduction"* given at [ODSC London 2017](https://odsc.com/london). I'll update this repository in the next few days with code examples for the algorithms discussed in the talk, so hit the star or watch button above if you're interested :relaxed:. I've also made the slides available in this repo.
 
 ## License
 
